@@ -21,9 +21,9 @@
 ## 🚧 Current Projects
 | Project | Description | Repository |
 |--------|----------|--------------|
-| 📖 EverBook | Book Application | [ByteFlipper-58/book-story](https://github.com/ByteFlipper-58/book-story) |
-| 🔬 FF Sensitivities | Analysis Tool | [ByteFlipper-58/ffsensitivities2](https://github.com/ByteFlipper-58/ffsensitivities2) |
-| 🛠️ MC Tools | Development Utilities | [ByteFlipper-58/mc-tools](https://github.com/ByteFlipper-58/mc-tools) |
+| 📖 EverBook | E-Book reader Application | [ByteFlipper-58/book-story](https://github.com/ByteFlipper-58/book-story) |
+| 🔬 FF Sensitivities | Free Fire settings getting Application | [ByteFlipper-58/ffsensitivities2](https://github.com/ByteFlipper-58/ffsensitivities2) |
+| 🛠️ MC Tools | This is a collection of powerful tools for Minecraft! | [ByteFlipper-58/mc-tools](https://github.com/ByteFlipper-58/mc-tools) |
 
 ## 📊 GitHub Stats
 <div>
