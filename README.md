@@ -26,7 +26,7 @@ A brief description of my professional journey, interests, and goals.
 ## 📊 GitHub Stats
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=ByteFlipper-58&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteFlipper-58&theme=radical" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=ByteFlipper-58&theme=radical&border_radius=21" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Achievements
@@ -40,9 +40,6 @@ A brief description of my professional journey, interests, and goals.
     <a href="https://x.com/byteflipper"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
     <a href="mailto:byteflipper.business@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
-
-## 📈 GitHub Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=ByteFlipper-58&theme=radical&border_radius=21)](https://git.io/streak-stats)
 
 ## 💡 Interests
 - 📱 Mobile Development
