@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Ibrahim
 
 ## 🚀 About Me
-A brief description of my professional journey, interests, and goals.
+> My journey in programming started with creating mods for Minecraft PE for the mod loader InnerCore, now known as Horizon. During this time, I met some amazing people who helped me significantly improve my programming skills. We became a team of friends, calling ourselves "Sectants." Since then, I have continued to create apps and tools, inspired by technology and music. Learn more about my experience and approach to development!
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ByteFlipper-58&label=Profile%20views&color=0e75b6&style=flat" alt="ByteFlipper-58" /> </p>
 
 ## 🛠️ Technologies and Tools
 <div>
